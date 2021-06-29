@@ -22,14 +22,12 @@ header{
     color:#132E43;
     line-height: 3.7rem;
     margin: 0.5em 0em;
-
 }
 .giant-heading{
     font-size: 4rem;
     font-weight: 600;
     line-height: 3.9rem;
     margin:  0.5em 0em;
-
 }
 .sub-heading{
     font-size: 1.4rem;
@@ -37,7 +35,6 @@ header{
     font-weight: 600;
     line-height: 2rem;
     margin:  0.5em 0em;
-
 }
 .text{
     font-size: 1rem;
@@ -117,7 +114,6 @@ div .h-d1{
     flex: 0 1 30%;
 }
 .s2 .flex-container>div{
-
     text-align: left;
     flex: 0 1 35%;
 }
@@ -154,8 +150,6 @@ div .h-d1{
     background-image: url("../images/ezgif-2-82af66fcd1cb.png"),linear-gradient(#0b0a4675,#0c0b4b83);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
-
-
 }
 .f-d4, .f-d1{
     flex: 0 1 30%;
@@ -244,8 +238,7 @@ button{
     width: 11em;
     height: 3em;
     border-radius: 30px;
-    font-weight: 600;
-    
+    font-weight: 600;   
 }
 .button button{
     background: rgb(247,91,145);
@@ -268,7 +261,6 @@ div.s2-d2-d1-d1{
 .s6 .border-button button{
     background-color: white;
     color:rgb(247,91,145) ;
-
 }
 .outer-container{
     margin: 0rem 3rem;
@@ -283,7 +275,6 @@ h1+p{
 header .s{
     padding: 0em;
     align-items: flex-start;
-
 }
 .unchanged{
     padding-top: 0em;
@@ -307,8 +298,7 @@ a:hover,a:active{
 }
 i:hover, i:active{
     color: rgb(248, 101, 153);
-    transition: 0.5s;
-    
+    transition: 0.5s; 
 }
 .special{
     padding: 0.2em 1em;
@@ -346,7 +336,6 @@ nav .flex-container{
     transform: scale(1.1);
     box-shadow: 5px 5px 10px rgb(255, 138, 179);
     transition: 0.5s;
-
 }
 .border-button button:hover{
     background-color: white;
@@ -355,7 +344,6 @@ nav .flex-container{
     transform: scale(1.1);
     transition: 0.5s;
     box-shadow: 5px 5px 30px rgb(120, 161, 223);
-
 }
 .s3 .spec:hover{
     transform: scale(1.1);
@@ -527,10 +515,8 @@ nav .flex-container{
     }
     .logo {
         flex: 0 1 30%;
-
     }
     .checkbtn{
-
         position: absolute;
         top: 32px;
         right: 30px;
@@ -590,5 +576,3 @@ nav .flex-container{
         padding: 1em 0px;
     }
 }
-
-
